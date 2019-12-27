@@ -1,5 +1,7 @@
 # MSTN_IAR_DAC_SineWave
 
+IAR 8.40.2
+
 This example describes how to use DAC with DMA to generate sine waves on DAC channel output.
 Configure PORTE line 0 as DAC2_OUT.
 DMA channel10 is configured to transfer ping-pong mode, word by word, a 32-word buffer to DAC register DAC2_DATA.
