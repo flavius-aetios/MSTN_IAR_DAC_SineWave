@@ -1,0 +1,15 @@
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armproc.dll" 
+
+"C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armjlink2.dll" 
+
+"C:\Users\test\Desktop\Программирование\ASTS Projects\MSTN_IAR_DAC\Debug\Exe\DAC.out" 
+
+--plugin="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\bin\armbat.dll" 
+
+--macro="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\Milandr\MDR1986VE9x\FlashMDR32F1x.mac" 
+
+--flash_loader="C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.3\arm\config\flashloader\Milandr\FlashMDR32F1x.board" 
+
+
+
+

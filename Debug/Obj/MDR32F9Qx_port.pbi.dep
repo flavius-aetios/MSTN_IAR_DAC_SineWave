@@ -1,0 +1,20 @@
+MDR32F9Qx_port.pbi: \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\MDR32F9Qx_StdPeriph_Driver\src\MDR32F9Qx_port.c \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_port.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\MDR32F9Qx_config.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL/MDR32F9Qx_board.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\MDR32F9Qx_StdPeriph_Driver\inc\MDR32F9Qx_lib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\CMSIS\CM3\DeviceSupport\MDR32F9Qx\inc\MDR32Fx.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\CMSIS\CM3\CoreSupport\core_cm3.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\CMSIS\CM3\CoreSupport\core_cmInstr.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\cmsis_iar.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c/iccarm_builtin.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\CMSIS\CM3\CoreSupport\core_cmFunc.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\CMSIS\CM3\DeviceSupport\MDR32F9Qx\startup\iar\system_MDR32F9Qx.h \
+  C:\Users\test\Desktop\Программирование\ASTS\ Projects\MSTN_IAR_DAC\SPL\MDR32F9Qx_StdPeriph_Driver\inc/MDR32F9Qx_lib.h
